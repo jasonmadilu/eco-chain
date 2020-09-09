@@ -1,0 +1,60 @@
+.footer-component {
+  background-color: #1b1c1d;
+
+}
+.footer-container {
+  padding-top: 1em;
+  padding-bottom: 2em;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-section h6 {
+  color: white;
+}
+
+.footer-section p {
+  color: rgba(255,255,255,.5);
+  font-size: 1em;
+  margin: 0.1em;
+}
+
+.footer-copyright p{
+  margin-top: 2em;
+  text-align: center;
+  color: rgba(255,255,255,.5);
+  padding-bottom: 2em;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.footer-socialnetwork {
+  padding-top: 1em;
+  border-top: 0.1rem solid rgba(255,255,255,.5);
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  color: white;
+}
+
+.footer-socialnetwork a {
+  margin: 0.5em;
+}
+
+@media only screen and (max-width: 600px) {
+
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+}
