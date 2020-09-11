@@ -17,7 +17,7 @@ export const products = createModel({
   effects : {
     async fetchProducts() {
       try {
-        const { data } = await Axios.get('http://localhost/EPFC/test.php', {
+        const { data } = await Axios.get('https://127.0.0.1:3000/backend/test.php', {
           headers: {
             'Access-Control-Allow-Origin' : '*',
           }

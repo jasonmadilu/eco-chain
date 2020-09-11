@@ -20,6 +20,7 @@ export class App extends React.Component {
         <Provider store={ store }>
           <Navigation />
           <div className="header-slider"><Route path="/" exact component={ Homepage } /></div>
+          <div className="header-slider"><Route path="/eco-chain" exact component={ Homepage } /></div>
           <Route path="/login" exact component={ AuthenticationForm } />
           <Route path="/products" exact component={ ProductsContainer } />
           <div className="footer-component"><Footer /></div>
