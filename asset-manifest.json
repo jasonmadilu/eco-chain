@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eco-chain/static/css/main.6fa04152.chunk.css",
-    "main.js": "/eco-chain/static/js/main.848f5d25.chunk.js",
-    "main.js.map": "/eco-chain/static/js/main.848f5d25.chunk.js.map",
+    "main.js": "/eco-chain/static/js/main.1c0c497b.chunk.js",
+    "main.js.map": "/eco-chain/static/js/main.1c0c497b.chunk.js.map",
     "runtime-main.js": "/eco-chain/static/js/runtime-main.685938c8.js",
     "runtime-main.js.map": "/eco-chain/static/js/runtime-main.685938c8.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/eco-chain/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.b065767a.chunk.js": "/eco-chain/static/js/2.b065767a.chunk.js",
     "static/js/2.b065767a.chunk.js.map": "/eco-chain/static/js/2.b065767a.chunk.js.map",
     "index.html": "/eco-chain/index.html",
-    "precache-manifest.0f4cfa8abc0d52d861f0f05899406e5f.js": "/eco-chain/precache-manifest.0f4cfa8abc0d52d861f0f05899406e5f.js",
+    "precache-manifest.eaec7e23dde4b1cc4f7a28adb064a2ea.js": "/eco-chain/precache-manifest.eaec7e23dde4b1cc4f7a28adb064a2ea.js",
     "service-worker.js": "/eco-chain/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/eco-chain/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.6fa04152.chunk.css.map": "/eco-chain/static/css/main.6fa04152.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.b065767a.chunk.js",
     "static/css/main.6fa04152.chunk.css",
-    "static/js/main.848f5d25.chunk.js"
+    "static/js/main.1c0c497b.chunk.js"
   ]
 }
